@@ -16,3 +16,6 @@
         implementation 'com.github.bravetou:adaptive-textview:1.0.0'
     }
 ```
+
+# 参考
+- [android-autofittextview](https://github.com/grantland/android-autofittextview)
