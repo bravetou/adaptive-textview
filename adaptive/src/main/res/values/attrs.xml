@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 最小字号 -->
+    <attr name="minTextSize" format="dimension" />
+    <!-- 二进制递归字号的精度 -->
+    <attr name="precision" format="float" />
+    <!-- 启动自动调整 -->
+    <attr name="sizeToFit" format="boolean" />
+
+    <declare-styleable name="AdaptiveTextView">
+        <attr name="minTextSize" />
+        <attr name="precision" />
+        <attr name="sizeToFit" />
+    </declare-styleable>
+
+    <declare-styleable name="AdaptiveLayout">
+        <attr name="minTextSize" />
+        <attr name="precision" />
+        <attr name="sizeToFit" />
+    </declare-styleable>
+
+</resources>
