@@ -12,7 +12,7 @@
 ```
 
 ```groovy
-	dependencies {
-	        implementation 'com.github.bravetou:adaptive-textview:1.0.0'
-	}
+    dependencies {
+        implementation 'com.github.bravetou:adaptive-textview:1.0.0'
+    }
 ```
