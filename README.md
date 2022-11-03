@@ -19,3 +19,4 @@
 
 # 参考
 - [android-autofittextview](https://github.com/grantland/android-autofittextview)
+- [AutoTextView](https://github.com/isJoker/AutoTextView)
